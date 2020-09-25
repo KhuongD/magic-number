@@ -12,8 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cea10be8-d4f0-445f-8de9-3b05587ea739" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +37,9 @@
     <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="magic_number" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="magic_number" TARGET_NAME="magic_number" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="magic_number" RUN_TARGET_NAME="magic_number">
@@ -64,6 +63,9 @@
       <updated>1601018918911</updated>
       <workItem from="1601018920466" duration="17000" />
       <workItem from="1601018958979" duration="105000" />
+      <workItem from="1601019348859" duration="7000" />
+      <workItem from="1601019361001" duration="15000" />
+      <workItem from="1601019455324" duration="30000" />
     </task>
     <servers />
   </component>
@@ -75,21 +77,21 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.956@0.23.1680.956" timestamp="1601018998327" />
-    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1601019063977">
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1601019375906">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1601019063977" />
-    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1601019063976">
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1601019375906" />
+    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1601019375905">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1601019063976" />
-    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1601019063976">
+    <state width="1358" height="243" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1601019375905" />
+    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1601019375905">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1601019063976" />
-    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1601019063976">
+    <state width="1358" height="243" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1601019375905" />
+    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1601019375906">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1358" height="243" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1601019063976" />
+    <state width="1358" height="243" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1601019375906" />
   </component>
 </project>
